@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Jinleshen
 - 👀 I’m biomedical recercher and data analytic
 - 🌱 I’m currently learning Python, SQL, ML
-- 💞️ I’m looking to collaborate on some handsome project
-- 📫 How to reach me jinsawjin@gmail.com
 
 <!---
 Jinleshen/Jinleshen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
